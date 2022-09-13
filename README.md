@@ -16,5 +16,6 @@ Here are some ideas to get you started:
 -->
 
 ## Here Is A Snake Eating My Contributions.
-![GitHub Snake ark](https://github.com/PranavaBharadwaj4/PranavaBharadwaj4/blob/output/github-contribution-grid-snake-dark.svg)
+![GitHub Snake ark](https://github.com/PranavaBharadwaj4/PranavaBharadwaj4/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![GitHub Snake ark](https://github.com/PranavaBharadwaj4/PranavaBharadwaj4/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
 <!-- ![snake gif](https://github.com/PranavaBharadwaj4/PranavaBharadwaj4/blob/output/ocean.gif) -->
