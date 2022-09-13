@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 
 ## Here Is A Snake Eating My Contributions.
-![GitHub Snake dark](github-contribution-grid-snake-dark.svg)
+![GitHub Snake ark](https://github.com/PranavaBharadwaj4/PranavaBharadwaj4/blob/output/github-contribution-grid-snake-dark.svg)
 ![snake gif](https://github.com/PranavaBharadwaj4/PranavaBharadwaj4/blob/output/ocean.gif)
