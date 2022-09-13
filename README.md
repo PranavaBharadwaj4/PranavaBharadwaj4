@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 
 ## Here Is A Snake Eating My Contributions.
 
-![GitHub Snake Light](github-snake.svg#gh-light-mode-only)
-![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
+![GitHub Snake Light](github-contribution-grid-snake.svg#gh-light-mode-only)
+![GitHub Snake dark](github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
