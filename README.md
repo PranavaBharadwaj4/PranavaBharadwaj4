@@ -16,7 +16,7 @@
 
 - 📄 Know about my [Experiences](https://drive.google.com/file/d/1RRvChP99y2xZwcitkvqFci5qXuok3BhP/view?usp=sharing).
 
-- ⚡ Hobbies include: **Producing music, Exercising and Badminton.**
+- ⚡ Hobbies include: **Producing music, Exercising and Badminton**,
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
